@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- App Name -->
+    <string name="app_name">Schoters News</string>
+
+    <!-- Title -->
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_bookmark">Bookmark</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_top_headlines">Top Headlines</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_share_news">Share news</string>
+
+    <!-- Profile Info -->
+    <string name="profile_name">Kadek Andre Suryana</string>
+    <string name="github_username">AndreSuryana</string>
+
+    <!-- Placeholders -->
+    <string name="placeholder_search" tools:ignore="TypographyEllipsis">Search...</string>
+    <string name="dots">•</string>
+    <string name="by">by</string>
+    <string name="share_news">Read "%1s" on %2s</string>
+
+    <!-- Button -->
+    <string name="btn_back">Back Button</string>
+    <string name="btn_share">Share</string>
+
+    <!-- Message -->
+    <string name="message_article_url_not_found">Sorry! Article url not found</string>
+    <string name="insert_bookmark">News added to bookmark successfully</string>
+    <string name="remove_bookmark">News removed from bookmark</string>
+
+</resources>
